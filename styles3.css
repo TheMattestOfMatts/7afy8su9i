@@ -251,7 +251,7 @@ footer .footer-container a {
   text-decoration: none;
   display: flex;
   align-items: center;
-  gap: 6px;
+  gap: 4px;
   font-weight: 500;
 }
 footer .footer-container a:hover {
@@ -268,7 +268,7 @@ footer .footer-container img {
   display: inline-block;
   background-image: url("icons-sprite.png");
   background-size: 120px 40px; /* total width of sprite */
-  margin-left: 10px;
+  margin-left: -15px;
 }
 
 /* Facebook icon (first image in sprite) */
